@@ -1,4 +1,4 @@
-# Live-Weather-using-API
+# developed Weather App-using-API
 This project will show the real time weather report of any location.
 
 
