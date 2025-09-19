@@ -1,4 +1,4 @@
-# developed Weather App-using-API
+# Built Weather App-using-API
 Built a responsive web application using HTML, CSS, and JavaScript that integrates with the WeatherAPI to fetch and display real-time weather data. Implemented user input for city search and dynamic rendering of temperature and conditions.
 
 
